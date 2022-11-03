@@ -2,3 +2,5 @@ Opened file using code . and entered this text
 
 
 Replaced this line 
+
+Adding this to test if I understand git add 

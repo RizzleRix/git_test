@@ -1,1 +1,3 @@
 Odin text test
+
+editing this to test if I understand git add 
