@@ -1,1 +1,3 @@
 Opened file using code . and entered this text 
+
+used git commit before git add, attempt number 2
