@@ -6,3 +6,5 @@ Replaced this line
 Adding this to test if I understand git add 
 
 testing single git commit message (individual)
+
+Testing I still know how to do this a day later 
